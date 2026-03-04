@@ -1,0 +1,71 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "hero-smile",
+      "description": "A bright beautiful smile",
+      "imageUrl": "https://picsum.photos/seed/smile1/1200/800",
+      "imageHint": "dental smile"
+    },
+    {
+      "id": "service-whitening",
+      "description": "Dental whitening treatment",
+      "imageUrl": "https://picsum.photos/seed/whitening/400/300",
+      "imageHint": "teeth whitening"
+    },
+    {
+      "id": "service-implants",
+      "description": "Dental implants",
+      "imageUrl": "https://picsum.photos/seed/implants/400/300",
+      "imageHint": "dental implant"
+    },
+    {
+      "id": "service-orthodontics",
+      "description": "Invisible braces orthodontics",
+      "imageUrl": "https://picsum.photos/seed/ortho/400/300",
+      "imageHint": "invisible braces"
+    },
+    {
+      "id": "testimonial-1",
+      "description": "Happy patient portrait",
+      "imageUrl": "https://picsum.photos/seed/p1/200/200",
+      "imageHint": "person smiling"
+    },
+    {
+      "id": "testimonial-2",
+      "description": "Happy patient portrait",
+      "imageUrl": "https://picsum.photos/seed/p2/200/200",
+      "imageHint": "person smiling"
+    },
+    {
+      "id": "testimonial-3",
+      "description": "Happy patient portrait",
+      "imageUrl": "https://picsum.photos/seed/p3/200/200",
+      "imageHint": "person smiling"
+    },
+    {
+      "id": "before-1",
+      "description": "Dental treatment before",
+      "imageUrl": "https://picsum.photos/seed/b1/600/400",
+      "imageHint": "unhealthy teeth"
+    },
+    {
+      "id": "after-1",
+      "description": "Dental treatment after",
+      "imageUrl": "https://picsum.photos/seed/a1/600/400",
+      "imageHint": "healthy smile"
+    },
+    {
+      "id": "before-2",
+      "description": "Teeth alignment before",
+      "imageUrl": "https://picsum.photos/seed/b2/600/400",
+      "imageHint": "crooked teeth"
+    },
+    {
+      "id": "after-2",
+      "description": "Teeth alignment after",
+      "imageUrl": "https://picsum.photos/seed/a2/600/400",
+      "imageHint": "aligned teeth"
+    }
+  ]
+}
