@@ -30,10 +30,13 @@ Página fictícia para a "Sorriso Perfeito Blumenau", com design clean, cores de
 - Navbar e footer com links essenciais
 
 ### Tecnologias Usadas
-- HTML5
-- Tailwind CSS (via CDN)
-- JavaScript básico (interações leves)
-- Deploy: Vercel (rápido e grátis)
+
+* HTML5
+* CSS3
+* TypeScript
+* JavaScript Básico (Interações leves)
+* Tailwind CSS
+* Deploy: **Vercel**
 
 ### Features
 - 100% responsivo (mobile-first)
