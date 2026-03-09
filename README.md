@@ -4,7 +4,11 @@ Landing page moderna, responsiva e otimizada para conversão de uma clínica odo
 Exemplo de portfólio front-end para freelas rápidos.
 
 **Live Demo:**  
-👉 https://landing-page-odonto-blumenausc.vercel.app/
+[Sorriso Perfeito](https://landing-page-odonto-blumenausc.vercel.app/)
+
+<p align="center">
+  <img src="assets/demo-2x.gif" alt="Demonstração acelerada 2x" width="70%">
+</p>
 
 
 ## Sobre o Projeto
